@@ -125,6 +125,4 @@ task-4-logistic-regression/
 ```
 
 ## Conclusion
-The Logistic Regression model achieved strong benchmark performance: **97.37% accuracy, 96.39% F1-score and 0.9967 ROC-AUC** at threshold 0.50. Exploratory threshold tuning found 0.54 with F1 = 0.9756. The next major improvement is validation-based threshold selection with cross-validation.
-
-> **Disclaimer:** Educational project only. The model is not a clinical diagnostic system.
+The Logistic Regression model achieved strong benchmark performance: **97.37% accuracy, 96.39% F1-score and 0.9967 ROC-AUC** at threshold 0.50. Exploratory threshold tuning found 0.54 with F1 = 0.9756. 
